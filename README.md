@@ -1,4 +1,5 @@
 # DSA Through Stories 🧠📖
+Algorithms explained with intuition, not intimidation.
 
 Many people don’t hate Data Structures & Algorithms.  
 They hate **how it is taught**.
