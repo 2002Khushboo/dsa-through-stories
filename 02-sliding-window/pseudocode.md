@@ -1,5 +1,5 @@
 ## Pseudocode
-
+```
 left = 0
 for right in array:
     add array[right] to window
@@ -7,8 +7,9 @@ for right in array:
         remove array[left] from window
         left++
     update best answer
-
+```
 ## Example in code:
+```
 int longestSubarray(vector<int> arr, int k) 
 {
     int left = 0, sum = 0, maxLen = 0;
@@ -25,3 +26,4 @@ int longestSubarray(vector<int> arr, int k)
     }
     return maxLen;
 }
+```
