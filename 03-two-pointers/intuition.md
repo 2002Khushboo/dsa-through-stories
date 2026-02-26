@@ -11,3 +11,15 @@ You always ask:
 “Which side is causing the problem?”
 
 And move only that pointer.
+
+## 🧩 HOW TO DECIDE: TWO POINTERS vs SLIDING WINDOW
+
+Ask ONE question:
+
+👉 Does removing from ONE SIDE fix the problem?
+
+YES → Sliding Window
+
+NO, depends on BOTH ENDS → Two Pointers
+
+That’s the separator.
